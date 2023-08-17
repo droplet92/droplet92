@@ -1,19 +1,21 @@
-<!--
-### Hi there 👋
+Hi there 🦦
 
-**droplet92/droplet92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hansu Lee, a software developer.
+I have mainly been coding in C++, C#, and JavaScript.
 
-Here are some ideas to get you started:
+I'm interested in:
+- Game development
+- Information Security
+- Network/Web programming
+- and Rust🦀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My notable projects:
+- ArtAuction (2023.04. ~ 2023.06.) : A game inspirated by "Modern Art" that trading modern paintings. Developed using C++20 with cocos2d-x and sqlite3.
+- eevee/CIAPI (2017.05. ~ 2021.08.) : Timeline website frontend and backend for my club, which was active from Aug 2021 to Jul 2022. Developed using JavaScript/TypeScript with React, koa, MariaDB, and TypeORM. Docker, nodejs, and AWS were used for hosting.
+- Motion Capture Using MPU6050 (2020.09. ~ 2020.10.) : Introduce and Implement inertial motion capture using Raspberry Pi and OpenGL.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=droplet92&show_icons=true&theme=radical&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=droplet92&theme=radical&layout=compact&langs_count=9&hide=cmake,objective-c,makefile)](https://github.com/anuraghazra/github-readme-stats)
+Publications:
+- 김명지, 김효리, 박유림, 이영현, 이한수, 정범영, 송원철, 정동훈 (2022). 1인칭 메타버스 게임의 HUD UI와 공간 UI가 사용자 경험에 미치는 효과. 한국HCI학회 학술대회, 403-409.
+- 이한수, 김동주, 이혁준, 황동혁 (2021). 랜섬웨어 대응 및 데이터 유출 보호를 위한 파일 접근 로그 기반 파일 접근 제어 시스템. 한국정보과학회 학술발표논문집, 2054-2056.
+
+[More details...](droplet92.github.io)
