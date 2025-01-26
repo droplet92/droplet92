@@ -9,8 +9,8 @@ I'm interested in:
 - and Rust🦀
 
 My notable projects:
-- [ArtAuction](https://droplet92.itch.io/art-auction) (2023.04. ~ 2023.06.) : A **game** inspirated by *"Modern Art"* that trading modern paintings. Developed using C++20 with cocos2d-x and sqlite3.
-- [eevee & CIAPI](https://github.com/CartoonIsArt) (2017.05. ~ 2021.08.) : **Timeline website** frontend and backend for my club, which was active from Aug 2021 to Jul 2022. Developed using JavaScript/TypeScript with React, koa, MariaDB, and TypeORM. Docker, nodejs, and AWS were used for hosting.
+- [Abyss Together](https://droplet92.itch.io/abyss-together) (2023.04. ~ 2023.06.) : card-based roguelike RPG **game**. Developed using C# with Unity.
+- [Art Auction](https://droplet92.itch.io/art-auction) (2023.04. ~ 2023.06.) : A **game** inspirated by *"Modern Art"* that trading modern paintings. Developed using C++20 with cocos2d-x and sqlite3.
 - [Motion Capture Using MPU6050](https://github.com/droplet92/mpu6050_mocap) (2020.09. ~ 2020.10.) : Introduce and Implement **inertial motion capture** using Raspberry Pi and OpenGL.
 
 Publications:
