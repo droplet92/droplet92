@@ -9,7 +9,7 @@ I'm interested in:
 - and Rust🦀
 
 My notable projects:
-- [Abyss Together](https://github.com/droplet92/AbyssTogether) (2025.01. ~ 2025.01.) : card-based roguelike RPG **game**. Developed using C# with Unity.
+- [Abyss Together](https://github.com/droplet92/AbyssTogether) (2025.01. ~ 2025.01.) : A card-based roguelike RPG **game**. Developed using C# with Unity.
 - [Art Auction](https://github.com/droplet92/ArtAuction) (2023.04. ~ 2023.06.) : A **game** inspirated by *"Modern Art"* that trading modern paintings. Developed using C++20 with cocos2d-x and sqlite3.
 - [Motion Capture Using MPU6050](https://github.com/droplet92/mpu6050_mocap) (2020.09. ~ 2020.10.) : Introduce and Implement **inertial motion capture** using Raspberry Pi and OpenGL.
 
